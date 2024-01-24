@@ -14,7 +14,7 @@
 
 <h2> 📜 Career </h2>
 <h2> 💻 Project </h2>
-<p> ●&nbsp;&nbsp;<a href="https://velog.io/@jmsyaya">Todo List</a></p>
+<p> ●&nbsp;&nbsp;<a href="https://github.com/jmsyaya/Todo">Todo List</a></p>
 <!--
 **jmsyaya/jmsyaya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
