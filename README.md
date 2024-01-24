@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Developer%20정명식입니다.&fontColor=232323&fontSize=60&textBg=false&animation=fadeIn&descAlignY=50&descAlign=50&fontAlignY=55&reversal=false&fontAlign=50"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=200&color=gradient&text=Developer%20정명식입니다.&fontColor=232323&fontSize=60&textBg=false&animation=fadeIn&descAlignY=50&descAlign=50&fontAlignY=55&reversal=false&fontAlign=50"/>
 <!--
 **jmsyaya/jmsyaya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
