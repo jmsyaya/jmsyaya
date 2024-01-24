@@ -6,7 +6,7 @@
 </div>
 
 <h2> 👔 Introduction </h2>
-<p> ● 이름 : 정명식</p>
+<p> ●  이름 : 정명식</p>
 
 <!--
 **jmsyaya/jmsyaya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
