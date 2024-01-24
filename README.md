@@ -1,4 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=venom&height=200&color=gradient&customColorList=4,6,30&text=MyeongSik's%20Github&desc=Welcome😄&descAlignY=69&descSize=15&animation=fadeIn&fontSize=55&fontColor=232323"/>
+
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjmsyaya&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=Hits&edge_flat=false"/></a>
 <!--
 **jmsyaya/jmsyaya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
