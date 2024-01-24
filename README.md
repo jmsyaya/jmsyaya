@@ -9,7 +9,7 @@
 <p> ●&nbsp;&nbsp;이름 : &nbsp;정명식</p>
 <p> ●&nbsp;&nbsp;이메일 : &nbsp;myeongsikjeong@gmail.com</p>
 <div>
-  <p> ●&nbsp;&nbsp;블로그 : &nbsp;</p>
+  <p> ●&nbsp;&nbsp;블로그 : &nbsp;<a href="https://velog.io/@jmsyaya">Velog</a></p>
   <a href="https://velog.io/@jmsyaya">Velog</a>
 </div>
 <!--
