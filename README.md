@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=venom&height=200&color=gradient&customColorList=4,6,30&text=MyeongSik's%20Gitbub&fontColor=232323&fontSize=55&textBg=false&animation=fadeIn&descAlignY=50&descAlign=50&fontAlignY=55&reversal=false&fontAlign=50&desc=Welcome😄&descAlignY=67&descSize=15"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=200&color=gradient&customColorList=4,6,30&text=MyeongSik's%20Gitbub&fontColor=232323&fontSize=55&textBg=false&animation=fadeIn&descAlignY=50&descAlign=50&fontAlignY=55&reversal=false&fontAlign=50&desc=Welcome😄&descAlignY=74&descSize=15"/>
 <!--
 **jmsyaya/jmsyaya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
