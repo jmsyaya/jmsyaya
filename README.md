@@ -11,6 +11,8 @@
 <div>
   <p> ●&nbsp;&nbsp;블로그 : &nbsp;<a href="https://velog.io/@jmsyaya">Velog</a></p>
 </div>
+
+<h2> 📜 Career </h2>
 <!--
 **jmsyaya/jmsyaya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
