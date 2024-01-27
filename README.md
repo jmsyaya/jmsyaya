@@ -16,7 +16,7 @@
 <h2> 💻 Project </h2>
 <p> ●&nbsp;&nbsp;<a href="https://github.com/jmsyaya/Todo">Todo List</a></p>
 <p> ●&nbsp;&nbsp;<a href="https://github.com/jmsyaya/Movie-Information">영화 예매사이트 (미완성)</a></p>
-<p> ●&nbsp;&nbsp;<a href="">Real Shoes 쇼핑몰</a></p>
+<p> ●&nbsp;&nbsp;<a href="https://github.com/jmsyaya/RealShoes">Real Shoes 쇼핑몰</a></p>
 
 
 <!--
