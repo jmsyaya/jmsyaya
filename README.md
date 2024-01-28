@@ -20,6 +20,10 @@
 
 <h2> 📖 Skill </h2>
 <p> [Language] </p>
+<img src="https://img.shields.io/badge/JavaScript-yellow?style=flat&logo=JavaScript&logoColor=F7DF1E"/>
+
+
+
 <!--
 **jmsyaya/jmsyaya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
