@@ -21,7 +21,11 @@
 <h2> 📖 Skill </h2>
 <p> [Language] </p>
 <img src="https://img.shields.io/badge/JavaScript-gray?style=flat&logo=JavaScript&logoColor=F7DF1E"/>
-
+<p> [Other Skill] </p>
+<div>
+  <img src="https://img.shields.io/badge/React-white?style=flat&logo=React&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Node.js-FFF612?style=flat&logo=Node.js&logoColor=339933"/>
+</div>
 
 
 <!--
