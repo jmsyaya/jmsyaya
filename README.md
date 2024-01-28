@@ -26,7 +26,10 @@
   <img src="https://img.shields.io/badge/React-white?style=flat&logo=React&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/Node.js-FFF612?style=flat&logo=Node.js&logoColor=339933"/>
 </div>
-
+<p> [DB] </p>
+<div>
+  <img src="https://img.shields.io/badge/MySQL-2457BD?style=flat&logo=MySQL&logoColor=4479A1"/>
+</div>
 
 <!--
 **jmsyaya/jmsyaya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
