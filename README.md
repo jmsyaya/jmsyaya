@@ -5,7 +5,7 @@
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjmsyaya&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=Hits&edge_flat=false"/></a>
 </div>
 
-<h2> 👔 Introduction 🪧</h2>
+<h2> 👔 Introduction </h2>
 <p> ●&nbsp;&nbsp;이름 : &nbsp;정명식</p>
 <p> ●&nbsp;&nbsp;이메일 : &nbsp;myeongsikjeong@gmail.com</p>
 <div>
@@ -18,7 +18,7 @@
 <p> ●&nbsp;&nbsp;<a href="https://github.com/jmsyaya/Movie-Information">영화 예매사이트 (미완성)</a></p>
 <p> ●&nbsp;&nbsp;<a href="https://github.com/jmsyaya/RealShoes">Real Shoes 쇼핑몰</a></p>
 
-<h2> 💻 Skill </h2>
+<h2> 📖 Skill </h2>
 
 <!--
 **jmsyaya/jmsyaya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
