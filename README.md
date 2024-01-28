@@ -19,7 +19,7 @@
 <p> ●&nbsp;&nbsp;<a href="https://github.com/jmsyaya/RealShoes">Real Shoes 쇼핑몰</a></p>
 
 <h2> 📖 Skill </h2>
-<p> <<Language>> </p>
+<p> "<<Language>>" </p>
 <!--
 **jmsyaya/jmsyaya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
