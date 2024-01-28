@@ -28,7 +28,7 @@
 </div>
 <p> [DB] </p>
 <div>
-  <img src="https://img.shields.io/badge/MySQL-000000?style=flat&logo=MySQL&logoColor=4479A1"/>
+  <img src="https://img.shields.io/badge/MySQL-FF5E00?style=flat&logo=MySQL&logoColor=4479A1"/>
 </div>
 
 <!--
