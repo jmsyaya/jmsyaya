@@ -51,6 +51,9 @@
   <img src="https://img.shields.io/badge/PowerPoint-B7472A?style=flat&logo=microsoftpowerpoint&logoColor=FFFFFF"/>
 </div>
 
+<br></br>
+![MyeopngSik's GitHub stats](https://github-readme-stats.vercel.app/api?username=jmsyaya&include_all_commits=true&show_icons=true&theme=radical&count_private=true)
+
 <!--
 **jmsyaya/jmsyaya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
