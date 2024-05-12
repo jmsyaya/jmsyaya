@@ -15,8 +15,8 @@
 <h2> 📜 Career </h2>
 <h2> 💻 Project </h2>
 <p> ●&nbsp;&nbsp;<a href="https://github.com/jmsyaya/Todo">Todo List</a></p>
-<p> ●&nbsp;&nbsp;<a href="https://github.com/jmsyaya/Movie-Information">영화 예매사이트 (미완성)</a></p>
 <p> ●&nbsp;&nbsp;<a href="https://github.com/jmsyaya/RealShoes">Real Shoes 쇼핑몰</a></p>
+<p> ●&nbsp;&nbsp;<a href="https://github.com/jmsyaya/JmsTube">JmsTube</a></p>
 <p> ●&nbsp;&nbsp;<a href="">Mylook 쇼핑몰 (진행중)</a></p>
 
 <h2> 📖 Skill </h2>
