@@ -15,9 +15,9 @@
 <h2> 📜 Career </h2>
 <h2> 💻 Project </h2>
 <p> ●&nbsp;&nbsp;<a href="https://github.com/jmsyaya/JmsTube">JmsTube</a></p>
-<p> ●&nbsp;&nbsp;<a href="https://github.com/jmsyaya/RealShoes">Real Shoes 쇼핑몰</a></p>
-<p> ●&nbsp;&nbsp;<a href="https://github.com/jmsyaya/Todo">Todo List</a></p>
-<p> ●&nbsp;&nbsp;<a href="">Mylook 쇼핑몰 (진행중)</a></p>
+<p> ●&nbsp;&nbsp;<a href="https://github.com/jmsyaya/Portfolio">정명식 PortFolio</a></p>
+<p> ●&nbsp;&nbsp;<a href="https://github.com/jmsyaya/open-market">Mylook Simple Open-Market</a></p>
+<p> ●&nbsp;&nbsp;<a href="">Mylook Shopping Mall (진행중)</a></p>
 
 <h2> 📖 Skill </h2>
 <p> [Language] </p>
