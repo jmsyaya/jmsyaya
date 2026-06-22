@@ -17,7 +17,8 @@
 <p> ●&nbsp;&nbsp;<a href="https://github.com/jmsyaya/JmsTube">JmsTube</a></p>
 <p> ●&nbsp;&nbsp;<a href="https://github.com/jmsyaya/Portfolio">정명식 PortFolio</a></p>
 <p> ●&nbsp;&nbsp;<a href="https://github.com/jmsyaya/open-market">Mylook Simple Open-Market</a></p>
-<p> ●&nbsp;&nbsp;<a href="">Mylook Shopping Mall (진행중)</a></p>
+<p> ●&nbsp;&nbsp;<a href="https://github.com/jmsyaya/full_stack_1team">프리고고 팀프로젝트(프론트엔드)</a></p>
+<p> ●&nbsp;&nbsp;<a href="https://github.com/jmsyaya/full_stack_nest">프리고고 팀프로젝트(백엔드)</a></p>
 
 <h2> 📖 Skill </h2>
 <p> [Language] </p>
