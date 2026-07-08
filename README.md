@@ -19,7 +19,7 @@
 <p> ●&nbsp;&nbsp;<a href="https://github.com/jmsyaya/open-market">Mylook Simple Open-Market</a></p>
 <p> ●&nbsp;&nbsp;<a href="https://github.com/jmsyaya/full_stack_1team">프리고고 팀프로젝트(프론트엔드)</a></p>
 <p> ●&nbsp;&nbsp;<a href="https://github.com/jmsyaya/full_stack_nest">프리고고 팀프로젝트(백엔드)</a></p>
-<p> ●&nbsp;&nbsp;<a href="https://github.com/jmsyaya/full_stack_nest">알맞음 팀프로젝트(프론트엔드)</a></p>
+<p> ●&nbsp;&nbsp;<a href="https://github.com/jmsyaya/front--almajum">알맞음 팀프로젝트(프론트엔드)</a></p>
 
 <h2> 📖 Skill </h2>
 <p> [Language] </p>
