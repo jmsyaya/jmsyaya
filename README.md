@@ -21,7 +21,7 @@
 <p> ●&nbsp;&nbsp;<a href="https://github.com/jmsyaya/full_stack_nest">프리고고 팀프로젝트(백엔드)</a></p>
 <p> ●&nbsp;&nbsp;<a href="https://github.com/jmsyaya/front--almajum">알맞음 팀프로젝트(프론트엔드)</a></p>
 <p> ●&nbsp;&nbsp;<a href="https://github.com/jmsyaya/AI_DataAnalysis">멀티모달+RAG+MCP 기반 AI 서비스 공부</a></p>
-<p> ●&nbsp;&nbsp;<a href="https://github.com/jmsyaya/AI_DataAnalysis">멀티모달+RAG+MCP 기반 AI 서비스 PJ</a></p>
+<p> ●&nbsp;&nbsp;<a href="https://github.com/jmsyaya/AI_MULTIMODAL_RAG_MCP_PJ">멀티모달+RAG+MCP 기반 AI 서비스 PJ</a></p>
 
 <h2> 📖 Skill </h2>
 <p> [Language] </p>
